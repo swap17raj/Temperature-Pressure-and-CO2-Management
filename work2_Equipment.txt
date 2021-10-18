@@ -1,0 +1,11 @@
+Equipments Used
+
+1.	Pic18f45k22
+2.	Mbed Module (LPC1768)
+3.	Pickit3 Header (Programming)
+4.	Tranreceiver MAX232
+5.	DB connector for serial connection
+6.	Potentiometer (ADC device)
+7.	LED's
+8.	Pushbuttons
+9.	Breadboard
